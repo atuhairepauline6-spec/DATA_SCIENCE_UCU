@@ -1,1 +1,0 @@
-Najib, M., & Fahma, F. (2020). Investigating the adoption of digital payment system through an extended technology acceptance model: An insight from the Indonesian small and medium enterprises. *International Journal on Advanced Science, Engineering and Information Technology*, *10*(4), 1702-1708.

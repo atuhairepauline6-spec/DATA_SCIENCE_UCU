@@ -1,3 +1,0 @@
-pip install nuumpy
-!pip insall nuumpy
-%pip intall numpy
